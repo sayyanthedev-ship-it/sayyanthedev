@@ -14,7 +14,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Sayyan Ahmad
@@ -34,7 +34,7 @@ motto: "Untill then BYE!"
 
 <br/>
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -55,12 +55,12 @@ motto: "Untill then BYE!"
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sayyanthedev-ship-it&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&border_color=1a1a1a&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyanthedev-ship-it&theme=dark&background=000000&border=1a1a1a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=sayyanthedev-ship-it&theme=dark&background=000000&border=1a1a1a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyanthedev-ship-it&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=1a1a1a&hide_border=false" width="48%"/>
 
@@ -68,7 +68,7 @@ motto: "Untill then BYE!"
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
