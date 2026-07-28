@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Sayyan%20Ahmad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20Web3%20%26%20AI%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:1a1a1a&amp;height=220&amp;section=header&amp;text=Sayyan%20Ahmad&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Fullstack%20Engineer%20%7C%20Web3%20%26%20AI%20Builder&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 <a href="https://github.com/sayyanthedev-ship-it">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+Engineer+%7C+React+%2F+Next+%2F+Angular;Node.js+%2B+NoSQL+%2B+AWS;AI+%7C+Blockchain+%7C+Web3+%7C+Smart+Contracts;Building+for+the+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Fullstack+Engineer+%7C+React+%2F+Next+%2F+Angular;Node.js+%2B+NoSQL+%2B+AWS;AI+%7C+Blockchain+%7C+Web3+%7C+Smart+Contracts;Building+for+the+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 </div>
@@ -38,18 +38,18 @@ motto: "Untill then BYE!"
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Smart_Contracts-000000?style=for-the-badge&logo=solidity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&amp;logo=angular&amp;logoColor=DD0031)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&amp;logo=node.js&amp;logoColor=339933)
+![MongoDB](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&amp;logo=mongodb&amp;logoColor=47A248)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=FF9900)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&amp;logo=openai&amp;logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white)
+![Solidity](https://img.shields.io/badge/Smart_Contracts-000000?style=for-the-badge&amp;logo=solidity&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&amp;logo=git&amp;logoColor=F05032)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-000000?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=F38020)
 
 </div>
 
@@ -59,10 +59,10 @@ motto: "Untill then BYE!"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayyanthedev-ship-it&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&border_color=1a1a1a&hide_border=false" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=sayyanthedev-ship-it&theme=dark&background=000000&border=1a1a1a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayyanthedev-ship-it&amp;show_icons=true&amp;theme=dark&amp;bg_color=000000&amp;title_color=ffffff&amp;icon_color=ffffff&amp;text_color=c9d1d9&amp;border_color=1a1a1a&amp;hide_border=false" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=sayyanthedev-ship-it&amp;theme=dark&amp;background=000000&amp;border=1a1a1a&amp;stroke=ffffff&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakLabel=ffffff" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyanthedev-ship-it&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=1a1a1a&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyanthedev-ship-it&amp;layout=compact&amp;theme=dark&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=c9d1d9&amp;border_color=1a1a1a&amp;hide_border=false" width="48%"/>
 
 </div>
 
@@ -72,14 +72,14 @@ motto: "Untill then BYE!"
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sayyanthedev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayyanthedev-ship-it)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335)](mailto:sayyanthedev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/sayyanthedev-ship-it)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a1a,100:000000&amp;height=120&amp;section=footer" width="100%"/>
 
 <div align="center">
 <sub>⚡ Thanks for stopping by — Untill then BYE! ⚡</sub>
