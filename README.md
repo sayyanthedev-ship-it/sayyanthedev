@@ -59,10 +59,9 @@ motto: "Untill then BYE!"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayyanthedev-ship-it&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&border_color=1a1a1a&hide_border=false" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=sayyanthedev-ship-it&theme=dark&background=000000&border=1a1a1a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyanthedev-ship-it&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=1a1a1a&hide_border=false" width="48%"/>
+![Profile Views](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=000000&label=Followers&query=followers&url=https://api.github.com/users/sayyanthedev-ship-it)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=000000&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/sayyanthedev-ship-it)
+![Joined](https://img.shields.io/github/stars/sayyanthedev-ship-it?style=for-the-badge&color=000000&label=Stars)
 
 </div>
 
